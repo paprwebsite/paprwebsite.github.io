@@ -3,7 +3,7 @@ title: "papr"
 image: "main.gif"
 links:
   - label: Join the Waitlist
-    url: "mailto:jtleek@hey.com?subject='papr waitlist'"
+    url: "https://forms.gle/5dHzM2s191nXsbnH8"
 output:
   postcards::trestles
 ---
