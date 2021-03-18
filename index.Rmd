@@ -26,3 +26,8 @@ You can use the app to keep track of interesting papers and share them with your
 With papr you can filter to only see papers that match areas that interest you, keywords that match your interest, or papers that others have rated as interesting or high quality. Make sure your literature review is productive and efficient. 
 
 
+#### Press
+
+* [Swipe right for science: Papr app is ‘Tinder for preprints’ (Nature) ](https://www.nature.com/news/swipe-right-for-science-papr-app-is-tinder-for-preprints-1.22163)
+* [Great paper? Swipe right on the new ‘Tinder for preprints’ app (Science)](https://www.sciencemag.org/news/2017/06/great-paper-swipe-right-new-tinder-preprints-app)
+* [papr: Tinder for pre-prints, a Shiny Application for collecting gut-reactions to pre-prints from the scientific community (useR presentation)](https://channel9.msdn.com/Events/useR-international-R-User-conferences/useR-International-R-User-2017-Conference/papr-Tinder-for-pre-prints-a-Shiny-Application-for-collecting-gut-reactions-to-pre-prints-from-the-s)
