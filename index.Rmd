@@ -16,13 +16,9 @@ There has been a deluge of academic papers written about Covid over the last yea
 
 We all know the peer review system is hopelessly overmatched by the deludge of papers coming out. papr reviews use the wisdom of the crowd to quickly filter papers that are considered interesting and accurate. Add your quick judgements about papers to those of thousands of scientists around the world. 
 
-<img src="axes.png" width="20%"  class="rounded mx-auto d-block">
-
 #### Helping you keep track of the literature
 
 You can use the app to keep track of interesting papers and share them with your friends. Spend 30 min quickly sorting through the latest literature and papr will keep track of the papers you want to come back to. 
-
-<img src="track.gif" width="20%"  class="rounded mx-auto d-block">
 
 
 #### Only papers that you care about
@@ -30,4 +26,3 @@ You can use the app to keep track of interesting papers and share them with your
 With papr you can filter to only see papers that match areas that interest you, keywords that match your interest, or papers that others have rated as interesting or high quality. Make sure your literature review is productive and efficient. 
 
 
-<img src="fields.gif" width="20%"  class="rounded mx-auto d-block">
