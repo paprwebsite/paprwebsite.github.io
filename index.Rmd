@@ -2,8 +2,8 @@
 title: "papr"
 image: "main.gif"
 links:
-  - label: Join the Waitlist
-    url: "https://forms.gle/5dHzM2s191nXsbnH8"
+  - label: Download on the App Store
+    url: https://apple.co/3getsB0
 output:
   postcards::trestles
 ---
@@ -11,6 +11,7 @@ output:
 ## Tinder, but for papers & preprints
 
 There has been a deluge of academic papers written about Covid over the last year. Hundreds of preprints and papers are added each day. papr is an app that allows you quickly sort the literature on two axes: how interesting it is and how accurate it is. 
+
 
 #### A new way to review
 
@@ -26,8 +27,14 @@ You can use the app to keep track of interesting papers and share them with your
 With papr you can filter to only see papers that match areas that interest you, keywords that match your interest, or papers that others have rated as interesting or high quality. Make sure your literature review is productive and efficient. 
 
 
+
+#### Developed by scientists for scientists
+
+papr was originally conceived and prototyped as a web app by [Jeff Leek](www.jtleek.com)'s group in the [Johns Hopkins Data Science Lab](https://jhudatascience.org/). Jeff is a biostatistician and former editor of the journal Biostatistics. He saw that paper review had not adapted to the rapidly growing number of submissions and restricted review to the samll number of referees hand-selected by editors. He wanted to see if there was a faster and more democratic way to get a "first impression" of the scientific literature. Papr was spun off and is developed by Papr LLC, an independent company advised by Dr. Leek. 
+
 #### Press
 
 * [Swipe right for science: Papr app is ‘Tinder for preprints’ (Nature) ](https://www.nature.com/news/swipe-right-for-science-papr-app-is-tinder-for-preprints-1.22163)
 * [Great paper? Swipe right on the new ‘Tinder for preprints’ app (Science)](https://www.sciencemag.org/news/2017/06/great-paper-swipe-right-new-tinder-preprints-app)
 * [papr: Tinder for pre-prints, a Shiny Application for collecting gut-reactions to pre-prints from the scientific community (useR presentation)](https://channel9.msdn.com/Events/useR-international-R-User-conferences/useR-International-R-User-2017-Conference/papr-Tinder-for-pre-prints-a-Shiny-Application-for-collecting-gut-reactions-to-pre-prints-from-the-s)
+
