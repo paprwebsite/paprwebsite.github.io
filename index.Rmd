@@ -8,14 +8,9 @@ output:
   postcards::trestles
 ---
  
-## Tinder, but for papers & preprints
+## The best way to stay on top of the literature
 
-There has been a deluge of academic papers written about Covid over the last year. Hundreds of preprints and papers are added each day. papr is an app that allows you quickly sort the literature on two axes: how interesting it is and how accurate it is. 
-
-
-#### A new way to review
-
-We all know the peer review system is hopelessly overmatched by the deludge of papers coming out. papr reviews use the wisdom of the crowd to quickly filter papers that are considered interesting and accurate. Add your quick judgements about papers to those of thousands of scientists around the world. 
+There is a flood of scientific papers appearing each day across preprint servers. papr is an app that allows you quickly sort the literature on two axes: how interesting it is and how accurate it is. You can keep track of papers for yourself, share them with others, or meet people who like papers you like! 
 
 #### Helping you keep track of the literature
 
@@ -27,10 +22,21 @@ You can use the app to keep track of interesting papers and share them with your
 With papr you can filter to only see papers that match areas that interest you, keywords that match your interest, or papers that others have rated as interesting or high quality. Make sure your literature review is productive and efficient. 
 
 
+#### Meet people who like papers you like
+
+Are you a faculty member or investigator looking for students or postdocs? Are you a student trying to find your niche? Are you a researcher trying to find colleagues to ask for advice about a project? When you turn on social sharing, papr will connect you through Twitter to other scientists who like the papers you like. 
+
 
 #### Developed by scientists for scientists
 
 papr was originally conceived and prototyped as a web app by [Jeff Leek](www.jtleek.com)'s group in the [Johns Hopkins Data Science Lab](https://jhudatascience.org/). Jeff is a biostatistician and former editor of the journal Biostatistics. He saw that paper review had not adapted to the rapidly growing number of submissions and restricted review to the samll number of referees hand-selected by editors. He wanted to see if there was a faster and more democratic way to get a "first impression" of the scientific literature. Papr was spun off and is developed by Papr LLC, an independent company advised by Dr. Leek. 
+
+
+#### A new way to review (coming soon)
+
+We all know the peer review system is hopelessly overmatched by the deludge of papers coming out. papr reviews use the wisdom of the crowd to quickly filter papers that are considered interesting and accurate. Add your quick judgements about papers to those of thousands of scientists around the world. If you are a journal editor, journalist, investor, or scientist and want to talk about ways papr's anonymized rapid peer review data can help you [reach out](mailto:papr@info.io)! 
+
+
 
 #### Press
 
